@@ -1,0 +1,6 @@
+--- public/_redirects (原始)
+
+
++++ public/_redirects (修改后)
+     1	/*    /index.html   200
+     2	
